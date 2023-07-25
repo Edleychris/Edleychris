@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nkiruka Edith O.</h1>
 <h3 align="center">Front-End Developer with a passion of collaborating with other developers to build cool UIs & web projects. Open to frontend roles and gigs.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
 
 - 🌱 I’m currently learning **Vuejs**
 
