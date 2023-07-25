@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nkiruka Edith O.</h1>
 <h3 align="center">Front-End Developer with a passion of collaborating with other developers to build cool UIs & web projects. Open to frontend roles and gigs.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRwZnUzd2pwMTBnNm5ncWdxNGVlenIyZGF4bnhkOHV6NzhuYmpoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
-https://tenor.com/bQ1xU.gif
+
+
 - 🌱 I’m currently learning **Vuejs**
 
 - 👨‍💻 All of my projects are available at [https://nkiruka-edith.vercel.app/](https://nkiruka-edith.vercel.app/)
