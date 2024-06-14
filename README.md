@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRwZnUzd2pwMTBnNm5ncWdxNGVlenIyZGF4bnhkOHV6NzhuYmpoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
-- 🌱 I’m currently learning **Vuejs**
+- 🌱 I’m currently learning **Nodejs and PHP**
 
 - 👨‍💻 All of my projects are available at [https://nkiruka-edith.vercel.app/](https://nkiruka-edith.vercel.app/)
 
